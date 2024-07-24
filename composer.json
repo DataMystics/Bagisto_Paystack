@@ -4,7 +4,7 @@
     "type": "library",
     "require": {
         "php": "^7.3|^8.0",
-        "bagisto/bagisto": "^1.2"
+        "bagisto/bagisto": "^2.2.1"
     },
     "autoload": {
         "psr-4": {
