@@ -17,5 +17,12 @@
                 "Razor\\Paystack\\Providers\\PaystackServiceProvider"
             ]
         }
+    },
+
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/DataMystics/Bagisto_Paystack.git"
     }
+]
 }
