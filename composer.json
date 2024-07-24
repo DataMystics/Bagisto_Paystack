@@ -3,8 +3,7 @@
     "description": "Paystack payment gateway for Bagisto",
     "type": "library",
     "require": {
-        "php": "^7.3|^8.0",
-        "bagisto/bagisto": "^2.2"
+        "php": "^7.3|^8.0"
         
     },
     "autoload": {
