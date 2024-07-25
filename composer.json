@@ -13,7 +13,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Razor\\Paystack\\Razor\\Paystack\\src\\Providers\\PaystackServiceProvider"
+                "Razor\\Paystack\\Providers\\PaystackServiceProvider"
             ]
         }
     }
