@@ -7,11 +7,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Razor\\Paystack\\": "src/"
-        },
-        "files": [
-            "src/Providers/PaystackServiceProvider.php"
-        ]
+            "Razor\\Paystack\\": "packages/Razor/Paystack/src/"
+        }
     },
     "extra": {
         "laravel": {
