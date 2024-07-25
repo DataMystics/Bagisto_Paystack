@@ -1,0 +1,12 @@
+{
+    "name": "razor/paystack",
+    "description": "Paystack payment integration for Bagisto",
+    "require": {
+        "bagisto/bagisto": "2.2.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Razor\\Paystack\\": "src/"
+        }
+    }
+}
